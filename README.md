@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Quentin. ![PofileVue](https://komarev.com/ghpvc/?username=QuentinGra&style=flat&color=brightgreen)
 ## 🌱 About me
 Currently learning web development.
-## ⚡ Skills
+## 🔥 Skills
 ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=flat&logo=HTML5&logoColor=%23E34F26&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/css-%231572B6?style=flat&logo=css3&logoColor=%231572B6&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/sass-%23CC6699?style=flat&logo=sass&logoColor=%23CC6699&labelColor=black)
@@ -20,6 +20,6 @@ Currently learning web development.
 ![Static Badge](https://img.shields.io/badge/docker-%232496ED?style=flat&logo=docker&logoColor=%232496ED&labelColor=black)
 
 
-## Github Stats
+## 🖥 Github Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=quentinGra&show_icons=true&theme=vue-dark&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quentinGra&layout=compact&theme=vue-dark&hide_border=true)](https://github.com/quentinGra/github-readme-stats)
