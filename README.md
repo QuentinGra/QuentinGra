@@ -16,6 +16,7 @@ Currently learning web development.
 ![Static Badge](https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=%233178C6&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/vue-%234FC08D?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/symfony-%23000000?style=for-the-badge&logo=symfony&logoColor=white&labelColor=black)
+![Static Badge](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=%234169E1&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/yarn-%232C8EBB?style=for-the-badge&logo=yarn&logoColor=%232C8EBB&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=%232496ED&labelColor=black)
 
