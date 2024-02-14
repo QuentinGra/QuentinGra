@@ -1,4 +1,10 @@
 # 👋 Hi, I'm Quentin. ![PofileVue](https://komarev.com/ghpvc/?username=QuentinGra&style=flat&color=brightgreen)
+<p align="center">
+  <a href="https://github.com/QuentinGra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinGra&theme=vue-dark&hide_border=true&count_private=true" alt="Top Langs" width="100%"/>
+  </a>
+</p>
+
 ## 🌱 About me
 Currently learning web development.
 ## 🔥 Skills
@@ -21,5 +27,11 @@ Currently learning web development.
 
 
 ## 🖥 Github Stats
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=quentinGra&show_icons=true&theme=vue-dark&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quentinGra&layout=compact&theme=vue-dark&hide_border=true)](https://github.com/quentinGra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/QuentinGra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/?username=QuentinGra&theme=vue-dark&hide_border=true&count_private=true" alt="Top Langs" width="100%"/>
+  </a>
+</p>
+
+![QuentinGra's Streak](https://github-readme-streak-stats.herokuapp.com/?user=QuentinGra&theme=vue-dark&hide_border=true)
+![QuentinGra's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinGra&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
