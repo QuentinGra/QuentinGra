@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Quentin. ![PofileVue](https://komarev.com/ghpvc/?username=QuentinGra&style=flat&color=brightgreen)
+# 👋 Hi, I'm Quentin. ![PofileVue](https://komarev.com/ghpvc/?username=your-github-QuentinGra&color=blueviolet)
 <p align="center">
   <a href="https://github.com/QuentinGra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinGra&theme=vue-dark&hide_border=true&count_private=true" alt="Top Langs" width="100%"/>
