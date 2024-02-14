@@ -22,3 +22,4 @@ Currently learning web development.
 
 ## Github Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=quentinGra&show_icons=true&theme=vue-dark&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quentinGra&layout=compact&theme=vue-dark&hide_border=true)](https://github.com/quentinGra/github-readme-stats)
