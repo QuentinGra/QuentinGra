@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @QuentinGra 
+# 👋 Hi, I'm Quentin.
 ## About me
 Currently learning web development.
 ## Skills
