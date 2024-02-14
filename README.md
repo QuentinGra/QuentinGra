@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Quentin. ![PofileVue](https://komarev.com/ghpvc/?username=QuentinGra&style=flat&color=brightgreen)
-## About me
+## 🌱 About me
 Currently learning web development.
-## Skills
+## ⚡ Skills
 ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=flat&logo=HTML5&logoColor=%23E34F26&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/css-%231572B6?style=flat&logo=css3&logoColor=%231572B6&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/sass-%23CC6699?style=flat&logo=sass&logoColor=%23CC6699&labelColor=black)
@@ -10,7 +10,7 @@ Currently learning web development.
 ![Static Badge](https://img.shields.io/badge/mysql-%234479A1?style=flat&logo=mysql&logoColor=%234479A1&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/npm-%23CB3837?style=flat&logo=npm&logoColor=%23CB3837&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/git-%23F05032?style=flat&logo=git&logoColor=%23F05032&labelColor=black)
-## Learning skills
+## 📚 Learning skills
 ![Static Badge](https://img.shields.io/badge/javascript-%23F7DF1E?style=flat&logo=javascript&logoColor=%23F7DF1E&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/typescript-%233178C6?style=flat&logo=typescript&logoColor=%233178C6&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/vue-%234FC08D?style=flat&logo=vuedotjs&logoColor=%234FC08D&labelColor=black)
