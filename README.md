@@ -23,7 +23,7 @@ Currently learning web development at **CCI**.
 ![Static Badge](https://img.shields.io/badge/Vue-%234FC08D?style=flat&logo=vuedotjs&logoColor=%234FC08D&labelColor=grey)
 ![Static Badge](https://img.shields.io/badge/Symfony-%23000000?style=flat&logo=symfony&logoColor=white&labelColor=grey)
 ![Static Badge](https://img.shields.io/badge/Postgresql-%234169E1?style=flat&logo=postgresql&logoColor=%234169E1&labelColor=grey)
-![Static Badge](https://img.shields.io/badge/Yarn-%232C8EBB?style=flat&logo=yarn&logoColor=%232C8EBB&labelColor=grey)
+![Static Badge](https://img.shields.io/badge/Bun-%23000000?style=flat&logo=bun&logoColor=%23000000&labelColor=grey)
 ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=%232496ED&labelColor=grey)
 
 
