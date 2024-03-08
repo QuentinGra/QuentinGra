@@ -21,6 +21,7 @@ Currently learning web development at **CCI**.
 ![Static Badge](https://img.shields.io/badge/Javascript-%23F7DF1E?style=flat&logo=javascript&logoColor=%23F7DF1E&labelColor=grey)
 ![Static Badge](https://img.shields.io/badge/Typescript-%233178C6?style=flat&logo=typescript&logoColor=%233178C6&labelColor=grey)
 ![Static Badge](https://img.shields.io/badge/Vue-%234FC08D?style=flat&logo=vuedotjs&logoColor=%234FC08D&labelColor=grey)
+![Static Badge](https://img.shields.io/badge/Vite-%#646CFF?style=flat&logo=vite&logoColor=%#646CFF&labelColor=grey)
 ![Static Badge](https://img.shields.io/badge/Symfony-%23000000?style=flat&logo=symfony&logoColor=white&labelColor=grey)
 ![Static Badge](https://img.shields.io/badge/Bun-%23000000?style=flat&logo=bun&logoColor=%23000000&labelColor=grey)
 ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=%232496ED&labelColor=grey)
