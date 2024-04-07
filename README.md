@@ -9,6 +9,7 @@
 I'm currently learning web development at the **CCI**.
 ## ⚡ Technologies I know and I'm currently learning
 ### 🔥 Learned
+![Static Badge](https://img.shields.io/badge/Html-%23E34F26?style=flat&logo=html5&logoColor=%23E34F26&labelColor=grey&color=%23E34F26)
 ![Static Badge](https://img.shields.io/badge/Sass-%23CC6699?style=flat&logo=sass&logoColor=%23CC6699&labelColor=grey)
 ![Static Badge](https://img.shields.io/badge/Tailwind-%2306B6D4?style=flat&logo=tailwindcss&logoColor=%2306B6D4&labelColor=grey)
 ![Static Badge](https://img.shields.io/badge/Javascript-%23F7DF1E?style=flat&logo=javascript&logoColor=%23F7DF1E&labelColor=grey)
