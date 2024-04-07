@@ -6,7 +6,7 @@
 </p>
 
 ## 🌱 About me
-Currently learning web development at **CCI**.
+I'm currently learning web development at **CCI**.
 ## ⚡ The technology I'm learning
 ### 🔥 Learned
 ![Static Badge](https://img.shields.io/badge/Html-%23E34F26?style=flat&logo=HTML5&logoColor=%23E34F26&labelColor=grey)
