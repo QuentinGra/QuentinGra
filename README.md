@@ -17,13 +17,13 @@ I'm currently learning web development at the **CCI**.
 ![Static Badge](https://img.shields.io/badge/Php-%23777BB4?style=flat&logo=php&logoColor=%23777BB4&labelColor=grey)
 ![Static Badge](https://img.shields.io/badge/Mysql-%234479A1?style=flat&logo=mysql&logoColor=%234479A1&labelColor=grey)
 ![Static Badge](https://img.shields.io/badge/Npm-%23CB3837?style=flat&logo=npm&logoColor=%23CB3837&labelColor=grey)
-![Static Badge](https://img.shields.io/badge/Bun-%23000000?style=flat&logo=bun&logoColor=%23000000&labelColor=grey)
 ![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=%23F05032&labelColor=grey)
 ### 📚 Currently learning
 ![Static Badge](https://img.shields.io/badge/Typescript-%233178C6?style=flat&logo=typescript&logoColor=%233178C6&labelColor=grey)
 ![Static Badge](https://img.shields.io/badge/Vue-%234FC08D?style=flat&logo=vuedotjs&logoColor=%234FC08D&labelColor=grey)
 ![Static Badge](https://img.shields.io/badge/Vite-46CFF?style=flat&logo=vite&logoColor=%23646CFF&labelColor=grey&color=646CFF)
 ![Static Badge](https://img.shields.io/badge/Symfony-%23000000?style=flat&logo=symfony&logoColor=%23000000&labelColor=grey&color=%23000000)
+![Static Badge](https://img.shields.io/badge/Bun-%23000000?style=flat&logo=bun&logoColor=%23000000&labelColor=grey)
 ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=%232496ED&labelColor=grey)
 
 
