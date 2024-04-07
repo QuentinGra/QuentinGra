@@ -23,6 +23,7 @@ I'm currently learning web development at the **CCI**.
 ![Static Badge](https://img.shields.io/badge/Vue-%234FC08D?style=flat&logo=vuedotjs&logoColor=%234FC08D&labelColor=grey)
 ![Static Badge](https://img.shields.io/badge/Vite-46CFF?style=flat&logo=vite&logoColor=%23646CFF&labelColor=grey&color=646CFF)
 ![Static Badge](https://img.shields.io/badge/Symfony-%23000000?style=flat&logo=symfony&logoColor=%23000000&labelColor=grey&color=%23000000)
+![Static Badge](https://img.shields.io/badge/Composer-%23885630?style=flat&logo=composer&logoColor=%23885630&labelColor=grey&color=%23885630)
 ![Static Badge](https://img.shields.io/badge/Bun-%23000000?style=flat&logo=bun&logoColor=%23000000&labelColor=grey)
 ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=%232496ED&labelColor=grey)
 
