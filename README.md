@@ -29,6 +29,7 @@ I'm currently learning web development at the **CCI**.
 ![Static Badge](https://img.shields.io/badge/Bun-%23000000?style=flat&logo=bun&logoColor=%23000000&labelColor=grey)
 ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=%232496ED&labelColor=grey)
 <!--[Static Badge](https://img.shields.io/badge/Nuxt-%2300DC82?style=flat&logo=nuxtdotjs&logoColor=%2300DC82&labelColor=grey&color=%2300DC82)-->
+<!--[Static Badge](https://img.shields.io/badge/GraphQl-%23E10098?style=flat&logo=graphql&logoColor=%23E10098&labelColor=grey&color=%23E10098)-->
 
 
 ## 🖥 Github Stats
