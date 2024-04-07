@@ -25,6 +25,7 @@ I'm currently learning web development at the **CCI**.
 ![Static Badge](https://img.shields.io/badge/Symfony-%23000000?style=flat&logo=symfony&logoColor=%23000000&labelColor=grey&color=%23000000)
 ![Static Badge](https://img.shields.io/badge/Composer-%23885630?style=flat&logo=composer&logoColor=%23885630&labelColor=grey&color=%23885630)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-%234169E1?style=flat&logo=postgresql&logoColor=%234169E1&labelColor=grey&color=%234169E1)
+![Static Badge](https://img.shields.io/badge/Yarn-%232C8EBB?style=flat&logo=yarn&logoColor=%232C8EBB&labelColor=grey&color=%232C8EBB)
 ![Static Badge](https://img.shields.io/badge/Bun-%23000000?style=flat&logo=bun&logoColor=%23000000&labelColor=grey)
 ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=%232496ED&labelColor=grey)
 
