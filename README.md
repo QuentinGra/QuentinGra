@@ -42,3 +42,11 @@ I'm currently learning web development at the **CCI**.
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuentinGra&theme=kacho_ga&hide_border=true" alt="Top Langs" width="100%"/>
   </a>
 </p>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/QuentinGra/QuentinGra/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
