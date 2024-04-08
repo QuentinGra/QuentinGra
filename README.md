@@ -32,12 +32,12 @@ I'm currently learning web development at the **CCI**.
 
 
 ## 🖥 Stats
-<p align="center">
+<p align="left">
   <a href="https://github.com/QuentinGra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/?username=QuentinGra&theme=kacho_ga&hide_border=true&count_private=true" alt="Top Langs" width="390"/>
   </a>
 </p>
-<p align="center">
+<p align="left">
   <a href="https://github.com/QuentinGra/github-readme-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuentinGra&theme=kacho_ga&hide_border=true" alt="Top Langs" width="390"/>
   </a>
