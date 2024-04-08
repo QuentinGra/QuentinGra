@@ -4,10 +4,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Quentin+Grange!;" />
 </h1>
 
-## 🌱 About me
+## 🌱 About me 🌱
 I'm currently learning web development at the **CCI**.
-## ⚡ Technologies I know and I'm currently learning
-### 🔥 Learned
+## ⚡ Technologies I know and I'm currently learning ⚡
+### 🔥 Learned 🔥
 ![Static Badge](https://img.shields.io/badge/Html-%23E34F26?style=flat&logo=html5&logoColor=%23E34F26&labelColor=grey&color=%23E34F26)
 ![Static Badge](https://img.shields.io/badge/Css-%231572B6?style=flat&logo=css3&logoColor=%231572B6&labelColor=grey&color=%231572B6)
 ![Static Badge](https://img.shields.io/badge/Sass-%23CC6699?style=flat&logo=sass&logoColor=%23CC6699&labelColor=grey)
@@ -17,7 +17,7 @@ I'm currently learning web development at the **CCI**.
 ![Static Badge](https://img.shields.io/badge/Mysql-%234479A1?style=flat&logo=mysql&logoColor=%234479A1&labelColor=grey)
 ![Static Badge](https://img.shields.io/badge/Npm-%23CB3837?style=flat&logo=npm&logoColor=%23CB3837&labelColor=grey)
 ![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=%23F05032&labelColor=grey)
-### 📚 Currently learning
+### 📚 Currently learning 📚
 ![Static Badge](https://img.shields.io/badge/Typescript-%233178C6?style=flat&logo=typescript&logoColor=%233178C6&labelColor=grey)
 ![Static Badge](https://img.shields.io/badge/Vue-%234FC08D?style=flat&logo=vuedotjs&logoColor=%234FC08D&labelColor=grey)
 ![Static Badge](https://img.shields.io/badge/Vite-46CFF?style=flat&logo=vite&logoColor=%23646CFF&labelColor=grey&color=646CFF)
@@ -31,22 +31,14 @@ I'm currently learning web development at the **CCI**.
 <!--[Static Badge](https://img.shields.io/badge/GraphQl-%23E10098?style=flat&logo=graphql&logoColor=%23E10098&labelColor=grey&color=%23E10098)-->
 
 
-## 🖥 Github Stats
+## 🖥 Stats
 <p align="center">
   <a href="https://github.com/QuentinGra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/?username=QuentinGra&theme=kacho_ga&hide_border=true&count_private=true" alt="Top Langs" width="100%"/>
+    <img src="https://github-readme-stats.vercel.app/api/?username=QuentinGra&theme=kacho_ga&hide_border=true&count_private=true" alt="Top Langs" width="390"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/QuentinGra/github-readme-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuentinGra&theme=kacho_ga&hide_border=true" alt="Top Langs" width="100%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuentinGra&theme=kacho_ga&hide_border=true" alt="Top Langs" width="390"/>
   </a>
 </p>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/QuentinGra/QuentinGra/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
