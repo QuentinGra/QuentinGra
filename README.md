@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Quentin. ![PofileVue](https://komarev.com/ghpvc/?username=your-github-QuentinGra&color=red)
-<p align="center">
+<!--<p align="center">
   <a href="https://github.com/QuentinGra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinGra&theme=kacho_ga&hide_border=true&count_private=true" alt="Top Langs" width="100%"/>
   </a>
-</p>
+</p>-->
 
 ## 🌱 About me
 I'm currently learning web development at the **CCI**.
