@@ -46,6 +46,6 @@ I'm currently learning web development at the **CCI**.
   </a>
 </p>
 
-<h1 align="center">
+<!--<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+For+Visiting!+👍;" />
-</h1>
+</h1>-->
