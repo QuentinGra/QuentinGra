@@ -31,7 +31,7 @@ I'm currently learning web development at the **CCI**.
 ![Static Badge](https://img.shields.io/badge/Bun-%23000000?style=flat&logo=bun&logoColor=%23000000&labelColor=grey)
 ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=%232496ED&labelColor=grey)
 
-<h2 align="center">🖥 Stats</h2> 
+<h2 align="center">My Stats</h2> 
 <p align="center">
   <a href="https://github.com/QuentinGra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/?username=QuentinGra&theme=nord&hide_border=true&count_private=true" alt="Top Langs" width="390"/>
