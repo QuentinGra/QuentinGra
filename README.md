@@ -32,16 +32,18 @@ I'm currently learning web development at the **CCI**.
 ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=%232496ED&labelColor=grey)
 
 ## 🖥 Stats
-<p align="left">
+<p align="center">
   <a href="https://github.com/QuentinGra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/?username=QuentinGra&theme=kacho_ga&hide_border=true&count_private=true" alt="Top Langs" width="390"/>
   </a>
 </p>
-<p align="left">
+<p align="center">
   <a href="https://github.com/QuentinGra/github-readme-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuentinGra&theme=kacho_ga&hide_border=true" alt="Top Langs" width="390"/>
   </a>
 </p>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=QuentinGra&theme=nord&column=4&margin-w=15&margin-h=15&no-frame=true&title=Stars,Commit,Repositories,PullRequest" />
+</p>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=QuentinGra&theme=nord&column=3&margin-w=15&margin-h=15&no-frame=true)
 ![Snake animation](https://raw.githubusercontent.com/QuentinGra/QuentinGra/output/github-contribution-grid-snake-dark.svg)
