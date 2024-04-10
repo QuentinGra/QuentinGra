@@ -43,5 +43,4 @@ I'm currently learning web development at the **CCI**.
   </a>
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg)
-
+![Snake animation](https://raw.githubusercontent.com/QuentinGra/QuentinGra/output/github-contribution-grid-snake-dark.svg)
