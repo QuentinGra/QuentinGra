@@ -44,3 +44,4 @@ I'm currently learning web development at the **CCI**.
 </p>
 
 ![snake gif](https://github.com/QuentinGra/QuentinGra/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://raw.githubusercontent.com/QuentinGra/QuentinGra/output/github-contribution-grid-snake-dark.svg)
