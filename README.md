@@ -43,5 +43,5 @@ I'm currently learning web development at the **CCI**.
   </a>
 </p>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=QuentinGra&theme=nord)
+![Trophies](https://github-profile-trophy.vercel.app/?username=QuentinGra&theme=nord&column=3&margin-w=15&margin-h=15)
 ![Snake animation](https://raw.githubusercontent.com/QuentinGra/QuentinGra/output/github-contribution-grid-snake-dark.svg)
