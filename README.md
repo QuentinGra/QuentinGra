@@ -31,7 +31,6 @@ I'm currently learning web development at the **CCI**.
 ![Static Badge](https://img.shields.io/badge/Bun-%23000000?style=flat&logo=bun&logoColor=%23000000&labelColor=grey)
 ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=%232496ED&labelColor=grey)
 
-
 ## 🖥 Stats
 <p align="left">
   <a href="https://github.com/QuentinGra/github-readme-stats">
@@ -44,6 +43,5 @@ I'm currently learning web development at the **CCI**.
   </a>
 </p>
 
-<!--<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+For+Visiting!+👍;" />
-</h1>-->
+![Snake animation](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg)
+
