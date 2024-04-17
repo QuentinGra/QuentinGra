@@ -4,11 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Quentin+Grange!;" />
 </h1>
 
-## 🌱 About me
+### 🌱 About me
 
 I'm currently learning web development at the **CCI**.
 
----
+#
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Html" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
