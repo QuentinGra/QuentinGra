@@ -8,7 +8,7 @@
 I'm currently learning **`Web Development`** at the **CCI**.
 
 <details>
- <summary><h4>👨‍💻 Quentin's Coding</h4></summary>
+ <summary><h4>👨‍💻 Coding</h4></summary>
 </details>
 
 #
