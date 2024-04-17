@@ -8,7 +8,8 @@
 
 I'm currently learning web development at the **CCI**.
 
-## 🧰 Languages and Tools
+---
+### 🧰 Languages and Tools
 
 <img align="left" alt="Html" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
 <img align="left" alt="Css" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
@@ -24,7 +25,7 @@ I'm currently learning web development at the **CCI**.
 <br/>
 <br/>
 
-### 📚 Currently learning
+### Currently learning
 <img align="left" alt="Typescript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
 <img align="left" alt="Symfony" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" />
@@ -32,18 +33,20 @@ I'm currently learning web development at the **CCI**.
 <img align="left" alt="Bun" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" />
 <br/>
 
-<h2 align="center">My Stats</h2> 
-<p align="center">
+#
+
+### 📊 My Stats
+<p align="left">
   <a href="https://github.com/QuentinGra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/?username=QuentinGra&theme=nord&hide_border=true&count_private=true" alt="Top Langs" width="390"/>
   </a>
 </p>
-<p align="center">
+<p align="left">
   <a href="https://github.com/QuentinGra/github-readme-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuentinGra&theme=nord&hide_border=true" alt="Top Langs" width="390"/>
   </a>
 </p>
-<p align="center">
+<p align="left">
     <img src="https://github-profile-trophy.vercel.app/?username=QuentinGra&theme=nord&column=4&margin-w=15&margin-h=15&no-frame=true&title=Stars,Commit,Repositories,PullRequest" />
 </p>
 
