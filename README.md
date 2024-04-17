@@ -5,8 +5,11 @@
 </h1>
 
 ### 🌱 About me
+I'm currently learning **`Web Development`** at the **CCI**.
 
-I'm currently learning web development at the **CCI**.
+<details>
+ <summary><h4>👨‍💻 Quentin's Coding</h4></summary>
+</details>
 
 #
 ### 🧰 Languages and Tools
