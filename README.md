@@ -51,7 +51,7 @@ I'm currently learning **`Web Development`** at the **CCI**.
   </a>
 </p>
 <p align="left">
-    <img src="https://github-profile-trophy.vercel.app/?username=&theme=nord&column=4&margin-w=15&margin-h=15&no-frame=true&title=Stars,Commit,Repositories,PullRequest" />
+    <img src="https://github-profile-trophy.vercel.app/?username=QuentinGra&theme=nord&column=4&margin-w=15&margin-h=15&no-frame=true&title=Stars,Commit,Repositories,PullRequest" />
 </p>
 
 ![Snake animation](https://raw.githubusercontent.com/QuentinGra/QuentinGra/output/github-contribution-grid-snake-dark.svg)
