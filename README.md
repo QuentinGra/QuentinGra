@@ -50,6 +50,8 @@ I'm currently learning **`Web Development`** at the **CCI**.
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuentinGra&theme=nord&hide_border=true" alt="Top Langs" width="390"/>
   </a>
 </p>
+
+![QuentinGra's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinGra&theme=nord&show_icons=true&hide_border=true&layout=compact)
 <p align="left">
     <img src="https://github-profile-trophy.vercel.app/?username=QuentinGra&theme=nord&column=4&margin-w=15&margin-h=15&no-frame=true&title=Stars,Commit,Repositories,PullRequest" />
 </p>
