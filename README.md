@@ -30,11 +30,6 @@ I'm currently learning **`Web Development`** at the **CCI**.
 <br/>
 <br/>
 
-###Tools
-
-<br/>
-<br/>
-
 ### Currently learning
 <img align="left" alt="Typescript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Vue" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
