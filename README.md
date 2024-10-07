@@ -52,8 +52,8 @@ I'm currently learning **`Web Development`** at the **CCI**.
 </p>
 
 ![QuentinGra's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinGra&theme=nord&show_icons=true&hide_border=true&layout=compact)
-<p align="left">
+<!--<p align="left">
     <img src="https://github-profile-trophy.vercel.app/?username=QuentinGra&theme=nord&column=4&margin-w=15&margin-h=15&no-frame=true&title=Stars,Commit,Repositories,PullRequest" />
-</p>
+</p>-->
 
 ![Snake animation](https://raw.githubusercontent.com/QuentinGra/QuentinGra/output/github-contribution-grid-snake-dark.svg)
