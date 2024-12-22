@@ -3,7 +3,7 @@
 </h1>
 
 ### 🌱 About me
-I'm currently learning **`Web Development`** at the **CCI**.
+I'm a **`Web Developer`**.
 
 <details>
  <summary><h4>👨‍💻 Coding</h4></summary>
