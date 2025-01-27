@@ -45,11 +45,7 @@ I'm a **`Web Developer`**.
     <img src="https://github-readme-stats.vercel.app/api/?username=QuentinGra&theme=nord&hide_border=true&count_private=true" alt="Top Langs" width="390"/>
   </a>
 </p>
-<p align="left">
-  <a href="https://github.com/QuentinGra/github-readme-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuentinGra&theme=nord&hide_border=true" alt="Top Langs" width="390"/>
-  </a>
-</p>
+
 
 ![QuentinGra's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinGra&theme=nord&show_icons=true&hide_border=true&layout=compact)
 <p align="left">
