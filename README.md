@@ -3,10 +3,18 @@
 </h1>
 
 ### 🌱 About me
-I'm a **`Web Developer`**.
+
+I'm 27 years old.
+
+I earned a degree in IT maintenance back in 2019, but in 2022 I made a career switch to **`web development`**. Since then, I've truly fallen in love with coding and building digital products.
+
+Curious and eager to grow, I love learning new tools and frameworks. I'm currently exploring backend ecosystems beyond PHP — and Java is next on my list!
+
+Outside of coding, I'm a calm and thoughtful person. I enjoy reading, listening to music, and going on long hikes to recharge and find inspiration.
 
 <details>
  <summary><h4>👨‍💻 Coding</h4></summary>
+I'm interested in working with modern technologies like Symfony, Vue.js, and TypeScript. I also plan to dive into Java to strengthen my backend skills.
 </details>
 
 #
