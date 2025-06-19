@@ -13,8 +13,14 @@ Curious and eager to grow, I love learning new tools and frameworks. I'm current
 Outside of coding, I'm a calm and thoughtful person. I enjoy reading, listening to music and going on long hikes to recharge and find inspiration.
 
 <details>
- <summary><h4>👨‍💻 Coding</h4></summary>
+  <summary><h4>👨‍💻 Coding</h4></summary>
+
 I'm interested in working with modern technologies like Symfony, Vue.js, and TypeScript. I also plan to dive into Java to strengthen my backend skills.
+
+As part of my year as a web and mobile web developer student, I developed a full stack application for my final project, split into two main repositories:
+- [lite-api](https://github.com/QuentinGra/lite-api) – the backend (API) part
+- [lite-front](https://github.com/QuentinGra/lite-front) – the frontend (Vue.js) part
+
 </details>
 
 #
