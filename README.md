@@ -12,7 +12,7 @@ Curious and eager to grow, I love learning new tools and frameworks. I'm especia
 
 Outside of coding, I'm a calm and thoughtful person. I enjoy reading, listening to music, and going on long hikes to recharge and find inspiration.
 
-As I continue to grow as a developer, I'm excited by the prospect of working on impactful projects that make a real difference. I'm also passionate about contributing to open source communities in the future and collaborating with other developers who share the same drive for innovation and learning.
+As I continue to grow as a developer, I'm excited by the prospect of working on impactful projects that make a real difference. Contributing to open source communities is one of my goals for the future, and I look forward to collaborating with other passionate developers who share the same drive for innovation and learning.
 
 <details>
   <summary><h4>👨‍💻 Coding</h4></summary>
