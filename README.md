@@ -18,25 +18,11 @@ Outside of coding, I'm a calm and thoughtful person. I enjoy reading, listening 
 #
 
 ### 🚀 Current focus
+Mastering Java for robust backend development
 
-- Learning **Java** for backend development  
-- Discovering **Rust** for systems programming  
+Discovering **Rust** for systems programming  
+
 Improving my understanding of **concurrency, networking, and low-level system fundamentals**
-- Building personal projects to strengthen my backend and system-level understanding
-
-#
-
-### 📂 Projects
-
-#### 📚 Lite – Book discovery platform
-
-A full stack project built during my web developer training.
-
-- Backend API:  
-  https://github.com/QuentinGra/lite-api  
-
-- Frontend:  
-  https://github.com/QuentinGra/lite-front  
 
 #
 
@@ -53,7 +39,7 @@ Symfony • Vue.js • TypeScript
 
 #
 
-### 📊 My Stats
+<!--### 📊 My Stats
 <p align="left">
   <a href="https://github.com/QuentinGra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/?username=QuentinGra&theme=nord&hide_border=true&count_private=true" alt="Top Langs" width="390"/>
@@ -62,5 +48,6 @@ Symfony • Vue.js • TypeScript
 
 
 ![QuentinGra's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinGra&theme=nord&show_icons=true&hide_border=true&layout=compact)
+-->
 
 ![Snake animation](https://raw.githubusercontent.com/QuentinGra/QuentinGra/output/github-contribution-grid-snake-dark.svg)
